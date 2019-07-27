@@ -1,0 +1,13 @@
+body{
+	background-size: cover;
+	background: black; 
+}
+.text{
+	color: white;
+font-size: 30px;
+}
+h1{
+	color: white;
+	text-shadow: 10px 0 10px red;
+	font-family: 'Yellowtail', cursive;
+}
